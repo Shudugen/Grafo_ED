@@ -10,3 +10,5 @@
 # 3 4 9.5 (origem, destino e peso)   
 # 4 5 2.3 (origem, destino e peso)   
 # 1 5 1 (origem, destino e peso) 
+
+# O Grafo deve ser descrito em dados.txt
