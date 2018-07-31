@@ -7,8 +7,8 @@
 /*
 Feito por:
 
-Guilherme Braga Pinto: 17/0162290
-Gabriel Matheus da Rocha de Oliveira: 17/0103498
+Guilherme Braga Pinto
+Gabriel Matheus da Rocha de Oliveira
 
 Last Update: 26/06/2018
 UnB
